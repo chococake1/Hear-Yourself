@@ -12,7 +12,9 @@ disable_html_sanitization: true
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive Symphony</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="script.js"></script>
+
 </head>
 <body>
     <div class="container">
@@ -42,7 +44,5 @@ disable_html_sanitization: true
             <button id="stopSymphony">Stop Symphony</button>
         </div>
     </div>
-
-    <script src="script.js"></script>
 </body>
 </html>
