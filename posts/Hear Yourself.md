@@ -40,7 +40,7 @@ disable_html_sanitization: true
             <button id="stopSymphony">Stop Symphony</button>
         </div>
     </div>
-    <script src="script.js"></script>
+
 </body>
 </html>
 
