@@ -1,5 +1,5 @@
 ---
-title:Testing
+title: Testing
 published_at: 2024-05-28
 snippet: IDP
 disable_html_sanitization: true
