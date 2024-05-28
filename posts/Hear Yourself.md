@@ -4,8 +4,8 @@ published_at: 2024-05-28
 snippet: IDP
 disable_html_sanitization: true
 ---
-<!-- <!DOCTYPE html> -->
-<!-- <html lang="en"> -->
+<!DOCTYPE html>
+<html lang="en">
 
 
 <head>
