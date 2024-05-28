@@ -13,10 +13,10 @@ disable_html_sanitization: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive Symphony</title>
     <link rel="stylesheet" href="styles/styles.css">
-    <script src="script.js"></script>
 
 </head>
 <body>
+    <script src="script.js"></script>
     <div class="container">
         <h1>Create Your Symphony</h1>
         <div id="questions">
