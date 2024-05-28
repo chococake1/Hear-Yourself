@@ -13,7 +13,6 @@ disable_html_sanitization: true
 
 </head>
 <body>
-    <script src="script.js"></script>
     <div class="container">
         <h1>Create Your Symphony</h1>
         <div id="questions">
@@ -41,10 +40,9 @@ disable_html_sanitization: true
             <button id="stopSymphony">Stop Symphony</button>
         </div>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
 
 
-<--- <!DOCTYPE html> --->
-<--- <html lang="en"> --->
 
